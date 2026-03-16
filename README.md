@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+APK_FILE (https://expo.dev/accounts/anoj7166/projects/TaskApp/builds/e4a2ea1b-6382-4822-8577-72367330bd29)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
