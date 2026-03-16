@@ -2,7 +2,7 @@
 
 APK_FILE (https://expo.dev/accounts/anoj7166/projects/TaskApp/builds/e4a2ea1b-6382-4822-8577-72367330bd29)
 
-<h1>Welcome to your Expo app 👋</h1>
+<h1>APP IMAGES</h1>
 
 <p align="center">
    <img src="https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM.jpeg?raw=true" width="250"/>
