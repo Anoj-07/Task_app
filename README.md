@@ -2,11 +2,13 @@
 
 APK_FILE (https://expo.dev/accounts/anoj7166/projects/TaskApp/builds/e4a2ea1b-6382-4822-8577-72367330bd29)
 
-![Task App Screenshot](https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM.jpeg)
+<h1>Welcome to your Expo app 👋</h1>
 
-![Task App Screenshot 1](https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM.jpeg?raw=true)
-
-![Task App Screenshot 2](https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM(1).jpeg?raw=true)
+<p align="center">
+   <img src="https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/Anoj-07/Task_app/blob/master/assets/images/WhatsApp%20Image%202026-03-16%20at%202.53.21%20PM(1).jpeg?raw=true" width="250"/>
+</p>
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
